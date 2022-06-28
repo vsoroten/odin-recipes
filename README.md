@@ -1,2 +1,2 @@
 # Odin Recipes
-In this project, I built a basic recipe website. 
+In this project, I built a basic recipe website. This project demonstrates my ability to build a basic website that includes linking to other pages and images. Each receipe page includes basic features of design such as heading types, image embedding, unordered lists, ordered lists, and text features like bolding. The first recipe on the home page being Mexican rice, demonstrates a simple html page design. The next two recipes with similar layout to the Mexican rice page, but with more added detail and features. Yipee my first project completed!! 
