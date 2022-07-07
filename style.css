@@ -1,0 +1,21 @@
+* {
+    font-family: "Monaco", "Verdana", sans-serif;
+    text-align: center;
+}
+
+img {
+    height: 474px;
+    width: 488px;
+}
+
+h1 {
+    background-color: #f5f5dc;
+    box-sizing: border-box;
+    margin: 50px;
+    padding: 50px;
+    font-size: 50px;
+}
+
+body {
+    background-color: #ffe066;
+}
